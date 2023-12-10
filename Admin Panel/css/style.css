@@ -1,0 +1,13 @@
+#new_product tr{
+    color: black;
+    /* background-color: black; */
+     font-family:  sans-serif;
+     background-color:;
+  }
+  .head{
+    background-color: #CAFAFE;
+    color: black;
+    font-family:cursive;
+    padding: 10px;
+    border-radius: 1px;
+  }
