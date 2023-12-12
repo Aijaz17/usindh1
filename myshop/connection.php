@@ -4,6 +4,6 @@ $conn=mysqli_connect("localhost","root","","usindh");
 
 if ($conn) {
 
-    echo "db is connected";
+    // echo "db is connected";
 
 }
